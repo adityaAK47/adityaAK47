@@ -1,4 +1,7 @@
-<!-- Profile Header -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" alt="MasterHead GIF"/>
+</p>
+
 <h1 align="center">Hey 👋, I'm Aditya Kumar Singh</h1>
 <h3 align="center">🚀 Passionate Developer | 🧠 AI & MERN Enthusiast | 🎯 Future Tech Leader</h3>
 
@@ -29,17 +32,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" />
-</p>
-
-<p align="center">
-  <b><i>“Learn like a student, code like a pro, build like a founder.”</i></b>
-</p>
- 
-
----
-
 ## 🛠️ Tech Toolbox
 
 <p align="center">
@@ -53,16 +45,11 @@
 ### 🎯 [Code Reviewer](https://github.com/adityaAK47/code-reviewer)
 > 🤖 AI feedback on your code in real-time  
 > 🔧 Tech: React, Node, GenAI  
-<p>
+<p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
 </p>
 
 ---
-
-
----
-
-## 🔥 Projects Showcase
 
 ### 👥 [AI Collaborative Coding Platform](https://github.com/adityaAK47/-Collaborative-AI-Powered-Coding-Platform)
 > 💬 Real-time collab coding with Gemini AI support  
@@ -79,7 +66,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif" width="600" alt="AI Twitter Post Generator"/>
 </p>
-
 
 ---
 
@@ -106,9 +92,9 @@
 
 ## 🏆 Achievements
 
-- 🧠 360+ DSA problems on LeetCode
-- 📢 Campus Ambassador @ Tryst’24, IIT Delhi
-- 🧑‍💼 Core Member @ ECELL MSIT
+- 🧠 360+ DSA problems on LeetCode  
+- 📢 Campus Ambassador @ Tryst’24, IIT Delhi  
+- 🧑‍💼 Core Member @ ECELL MSIT  
 - 📜 Certified in AI, Full Stack, Java (Apna College, Microsoft)
 
 ---
@@ -131,5 +117,23 @@
 
 ---
 
-> _“Code with purpose. Learn with curiosity. Build with passion.”_
+## 🚀 Let's Build the Future Together!
 
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300"/>
+</p>
+
+<p align="center">
+  <b>✨ Whether it’s AI, Full-Stack, or disruptive ideas — I’m all in.</b><br/>
+  <i>Let’s innovate, collaborate, and turn ideas into impact.</i>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aditya-kumar-singh-46774326b" target="_blank">
+    <img src="https://img.shields.io/badge/-Let’s%20Connect!-blueviolet?style=for-the-badge&logo=handshake&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+> _“Code with purpose. Learn with curiosity. Build with passion.”_
