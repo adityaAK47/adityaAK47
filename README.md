@@ -10,11 +10,33 @@
 
 ## 🧠 About Me
 
-🎓 B.Tech CSE @ MSIT Delhi (Minor in AI & ML)  
-🧰 Skilled in **Java, MERN, GenAI, OpenAI APIs, GCP**  
-📚 Solved **360+ LeetCode Problems**  
-💼 Completed Deloitte Australia Job Simulation  
-📌 Interests: **Agentic AI, Realtime Systems, Web3**, and Hackathons  
+🎓 I'm a **Computer Science undergraduate** at **MSIT, Delhi**, pursuing a minor in **Artificial Intelligence & Machine Learning**.
+
+💻 Currently diving deep into:
+- 🧠 **Agentic AI** & LLM frameworks  
+- ⚡ **Real-time Systems** & Distributed Architectures  
+- 🌐 Web3, OpenAI, LangGraph, and more!
+
+📌 Here's a snapshot of my journey so far:
+- 👨‍💻 Solved **360+ LeetCode** challenges (and counting!)
+- 🚀 Built multiple **AI-powered full-stack apps**
+- 🌟 Completed the **Deloitte Australia Job Simulation**
+- 🧠 Certified in **Java, Full-Stack MERN, Microsoft AI**
+
+🧰 Tech Arsenal: `Java`, `MERN Stack`, `Google Generative AI`, `OpenAI API`, `MongoDB`, `GCP`, `Redis`, `Socket.IO`
+
+🚀 I believe in **"Building smart, scalable, and impactful products"** — and I’m always up for a new challenge!
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" />
+</p>
+
+<p align="center">
+  <b><i>“Learn like a student, code like a pro, build like a founder.”</i></b>
+</p>
+ 
 
 ---
 
