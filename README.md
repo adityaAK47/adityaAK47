@@ -37,21 +37,25 @@
 
 ---
 
+
+## 🔥 Projects Showcase
+
 ### 👥 [AI Collaborative Coding Platform](https://github.com/adityaAK47/-Collaborative-AI-Powered-Coding-Platform)
-> 💬 Real-time collab + Gemini AI assistant  
-> 🛠️ MERN, Socket.io, Redis, JWT  
-<p>
-  <img src="https://media.giphy.com/media/IeRdg7zdcvUQk/giphy.gif" width="500"/>
+> 💬 Real-time collaboration with Gemini AI assistance  
+> 🛠️ Tech: React, Node.js, MongoDB, Redis, Socket.io, JWT  
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHF6Y21idjByNGNyaXVrcmxibWZ0NzVpYzF0NW92ZXlhdnNybHRybCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1n2IuHE8JiXJrsB9dd/giphy.gif" width="600" alt="AI Coding Collab GIF"/>
 </p>
 
 ---
 
 ### 🐦 [AI-Agent X](https://github.com/adityaAK47/ai-agent-X)
-> 🚀 Generates engaging X (Twitter) posts using OpenAI + Twitter API  
-> ⚙️ Stack: React, Node.js, MongoDB, OpenAI  
-<p>
-  <img src="https://media.giphy.com/media/hp3dmE0jVZ9Ik/giphy.gif" width="500"/>
+> 🚀 Auto-generates engaging X (Twitter) posts using OpenAI + Twitter API  
+> ⚙️ Stack: React, Express, MongoDB, OpenAI API, Twitter API  
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTVwa2Fmb2Z1YWU2Z2FwbmJia2FrZ2RhZXZxanFha2Zyb3R3a2xrNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mCRJDo24UvJMA/giphy.gif" width="600" alt="AI Tweet Generator GIF"/>
 </p>
+
 
 ---
 
