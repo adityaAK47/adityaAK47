@@ -21,7 +21,7 @@
 - 🌐 Web3, OpenAI, LangGraph, and more!
 
 📌 Here's a snapshot of my journey so far:
-- 👨‍💻 Solved **360+ LeetCode** challenges (and counting!)
+- 👨‍💻 Solved **460+ LeetCode** challenges (and counting!)
 - 🚀 Built multiple **AI-powered full-stack apps**
 - 🌟 Completed the **Deloitte Australia Job Simulation**
 - 🧠 Certified in **Java, Full-Stack MERN, Microsoft AI**
