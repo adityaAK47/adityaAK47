@@ -1,81 +1,107 @@
-<h1 align="center">Hi 👋, I'm Aditya Kumar Singh</h1>
-<h3 align="center">Computer Science Undergrad | AI & MERN Stack Enthusiast | Problem Solver</h3>
+<!-- Profile Header -->
+<h1 align="center">Hey 👋, I'm Aditya Kumar Singh</h1>
+<h3 align="center">🚀 Passionate Developer | 🧠 AI & MERN Enthusiast | 🎯 Future Tech Leader</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=450&lines=Computer+Science+Student;AI+%26+MERN+Stack+Developer;DSA+Practitioner;Always+Learning+Something+New!" />
 </p>
 
 ---
 
-## 💡 About Me
+## 🧠 About Me
 
-🎓 I’m a B.Tech CSE student at **MSIT, Delhi** (Minor in AI & ML)  
-🌱 I’m currently exploring **LangGraph, Agentic AI**, and **System Design**  
-🚀 I love building **AI-powered web apps** and solving **DSA challenges**  
-💬 Ask me about **Java**, **MERN stack**, **OpenAI APIs**, or **GCP**  
-📫 Reach me at: **[aaddysingh17@gmail.com](mailto:aaddysingh17@gmail.com)**  
-
----
-
-## 🛠️ Tech Stack & Tools
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)
+🎓 B.Tech CSE @ MSIT Delhi (Minor in AI & ML)  
+🧰 Skilled in **Java, MERN, GenAI, OpenAI APIs, GCP**  
+📚 Solved **360+ LeetCode Problems**  
+💼 Completed Deloitte Australia Job Simulation  
+📌 Interests: **Agentic AI, Realtime Systems, Web3**, and Hackathons  
 
 ---
 
-## 🧠 Projects
-
-### 🚀 [Code Reviewer](https://github.com/adityaAK47/code-reviewer)
-> 🔍 AI-powered tool that offers instant feedback on JavaScript code.  
-> 🧠 Built with Google GenAI, React, Express.js.
-
-### 💻 [Collaborative AI Coding Platform](https://github.com/adityaAK47/-Collaborative-AI-Powered-Coding-Platform)
-> 👥 Real-time collaborative editor with Gemini AI.  
-> 🔐 Includes JWT auth, Redis, Socket.io, Vite, MongoDB.
-
-### ✨ [AI-Agent X](https://github.com/adityaAK47/ai-agent-X)
-> 🐦 Auto-generates Twitter content using OpenAI + Twitter API.  
-> 📊 Scalable and sleek full-stack project.
-
----
-
-## 📊 GitHub Stats
+## 🛠️ Tech Toolbox
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityaAK47&theme=tokyonight" alt="streak-stats" />
+  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,html,css,tailwind,git,github,bootstrap,vscode,figma,gcp" />
+</p>
+
+---
+
+## 🔥 Projects Showcase
+
+### 🎯 [Code Reviewer](https://github.com/adityaAK47/code-reviewer)
+> 🤖 AI feedback on your code in real-time  
+> 🔧 Tech: React, Node, GenAI  
+<p>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
+</p>
+
+---
+
+### 👥 [AI Collaborative Coding Platform](https://github.com/adityaAK47/-Collaborative-AI-Powered-Coding-Platform)
+> 💬 Real-time collab + Gemini AI assistant  
+> 🛠️ MERN, Socket.io, Redis, JWT  
+<p>
+  <img src="https://media.giphy.com/media/IeRdg7zdcvUQk/giphy.gif" width="500"/>
+</p>
+
+---
+
+### 🐦 [AI-Agent X](https://github.com/adityaAK47/ai-agent-X)
+> 🚀 Generates engaging X (Twitter) posts using OpenAI + Twitter API  
+> ⚙️ Stack: React, Node.js, MongoDB, OpenAI  
+<p>
+  <img src="https://media.giphy.com/media/hp3dmE0jVZ9Ik/giphy.gif" width="500"/>
+</p>
+
+---
+
+## 📊 GitHub Stats & Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adityaAK47&theme=tokyonight&show_icons=true&count_private=true" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaAK47&layout=compact&theme=tokyonight" height="200"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityaAK47&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaAK47&layout=compact&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=adityaAK47&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Watch my GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
 ---
 
 ## 🏆 Achievements
 
-- 🎖️ 360+ LeetCode Problems Solved
-- 🥇 Organized **E-Summit 2K25** with Microsoft Startups
-- 💼 Completed **Deloitte Tech Simulation** on Forage
-- 🎓 Certifications from Microsoft & Apna College
+- 🧠 360+ DSA problems on LeetCode
+- 📢 Campus Ambassador @ Tryst’24, IIT Delhi
+- 🧑‍💼 Core Member @ ECELL MSIT
+- 📜 Certified in AI, Full Stack, Java (Apna College, Microsoft)
 
 ---
 
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-kumar-singh-46774326b/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)](https://github.com/adityaAK47)
-[![Mail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaddysingh17@gmail.com)
-
----
+## 🌐 Let's Connect!
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Code+with+purpose.+Learn+with+curiosity.;Build+with+passion." />
+  <a href="mailto:aaddysingh17@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/aditya-kumar-singh-46774326b"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/adityaAK47"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
+
+---
+
+## 🔥 Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adityaAK47&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
+
+---
+
+> _“Code with purpose. Learn with curiosity. Build with passion.”_
 
